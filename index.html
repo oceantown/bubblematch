@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>BUBBLE MATCH &trade;</title>
+        <link rel="stylesheet" href="css/styles.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class= "time-one">
+        <p id="pOneTime">Time: 0</p>
+          <img class="control" src="images/control.png" alt="control">
+      </div>
+    <h1>BUBBLE MATCH</h1>
+      <div class= "time-two">
+        <p id="pTwoTime">Time: 0</p>
+          <img class="control" src="images/control.png" alt="control">
+      </div>
+    </header>
+    <sidebar class= "left">
+      <img class="player" src="images/bubble.png" alt="player 1">
+        <h2>Player 1</h2>
+      <p id="winner"></p>
+    </sidebar>
+    <sidebar class= "right">
+      <img class="player" src="images/bobble.png" alt="player 2">
+        <h2>Player 2</h2>
+      <p id="winner2"></p>
+    </sidebar>
+      <div id="start">
+        <button type="button" name="button">Start</button>
+        <p id="timer">Timer = <span id="seconds">0</span></p>
+        <button type="button" id="replay">Replay</button>
+      </div>
+      <div class= "container">
+        </div>
+      <script type="text/javascript" src="js/app.js"></script>
+    </body>
+</html>
