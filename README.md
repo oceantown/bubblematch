@@ -3,7 +3,7 @@
 -
 
 
-# Bubble Match is a super sweet memory matching challenge inspired by Taito's legendary 1985 Nintendo game 'Bubble Bobble'.  Player 1 (Babs) & Player 2 (Bobby) are the children of Bub and his longtime girlfriend Betty.
+# Bubble Match is a super sweet memory matching challenge inspired by Taito's epic 1985 Nintendo game 'Bubble Bobble'.  Player 1 (Babs) & Player 2 (Bobby) are the children of Bub and his longtime girlfriend Betty.
 --- 
 
 
