@@ -25,9 +25,15 @@ Babs & Bobby by Rawdjur on DeviantArt:
 ![This is Jimmy](documents/bubble.png) 
 ![This is Philppe](documents/bobble.png)
 
+
 ## Dream features:
 - Make it mobile responsive
 - Add shuffling mechanism
 - Create more levels
+
+
+## User stories:
+
+![This is Jimmy](documents/user-stories.png)
 
 
