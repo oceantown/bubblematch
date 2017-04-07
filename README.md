@@ -34,6 +34,6 @@ Babs & Bobby by Rawdjur on DeviantArt:
 
 ## User stories:
 
-![This is Jimmy](documents/user-stories.png)
+![This is Jimmy](documents/user.png)
 
 
