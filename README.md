@@ -16,6 +16,11 @@ A second click is then required to make a match. If matched, the prize remains r
 Play <i>'Bubble Match'</i> <b><a href="http://bubblematch.ocean.town/">RIGHT HERE!</a></b>
 
 
+## User stories:
+
+![This is Jimmy](documents/user.png)
+
+
 ## Development:
 
 <i>'Bubble Match'</i> is built with HTML, CSS, JavaScript & jQuery.
@@ -24,11 +29,6 @@ Babs & Bobby by Rawdjur on DeviantArt:
 
 ![This is Jimmy](documents/bubble.png) 
 ![This is Philppe](documents/bobble.png)
-
-
-## User stories:
-
-![This is Jimmy](documents/user.png)
 
 
 ## Dream features:
