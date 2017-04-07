@@ -23,7 +23,7 @@ Play <i>'Bubble Match'</i> <b><a href="http://bubblematch.ocean.town/">RIGHT HER
 
 ## Development:
 
-<i>'Bubble Match'</i> is built with HTML, CSS, JavaScript & jQuery.
+Built strong with HTML, CSS, JavaScript & jQuery.
 
 Babs & Bobby by Rawdjur on DeviantArt:
 
