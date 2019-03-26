@@ -13,7 +13,7 @@
 
 A second click is then required to make a match. If matched, the prize remains revealed, if not, the magic bubble reforms. After matching and revealing all 10 fruit and ice cream prizes the final time is recorded. Player 2 (Bobby) presses start to begin their turn. When Player 2 completes matching, the winner is revealed!
 
-Play <i>'Bubble Match'</i> <b><a href="http://bubblematch.ocean.town/">RIGHT HERE!</a></b>
+Play <i>'Bubble Match'</i> <b><a href="http://bubblematch.s3-website-us-east-1.amazonaws.com/">RIGHT HERE!</a></b>
 
 
 ## User stories:
